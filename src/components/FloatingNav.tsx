@@ -181,7 +181,7 @@ export function FloatingNav() {
                 <div className="flex gap-8 text-sm text-muted-foreground">
                   <a href="https://www.linkedin.com/in/srivanivinnakota4/" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">LinkedIn</a>
                   <a href="https://github.com/sv410" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">GitHub</a>
-                  <a href="#" className="hover:text-foreground">Resume</a>
+                  <a href="/Sriv_resume.pdf" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Resume</a>
                 </div>
                 <p className="text-sm text-muted-foreground">© {new Date().getFullYear()} Srivani Vinnakota</p>
               </div>

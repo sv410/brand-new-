@@ -76,7 +76,9 @@ export function ContactSection() {
 
           <div className="mt-8">
             <a
-              href="#"
+              href="/Sriv_resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="animate-in inline-flex items-center justify-center px-8 py-4 rounded-full bg-accent text-accent-foreground font-semibold text-sm hover:scale-105 transition-transform"
               data-cursor-hover
             >
